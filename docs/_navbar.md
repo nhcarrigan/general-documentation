@@ -7,4 +7,5 @@
 - [Code of Conduct](/coc)
 - [Contributing](/contributing)
 - [Privacy Policy](/privacy)
+- [Security Policy](/security)
 - [Terms of Service](/terms)
