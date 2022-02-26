@@ -1,0 +1,31 @@
+{
+  "name": "general-documentation",
+  "version": "1.0.0",
+  "description": "Documentation for my smaller projects.",
+  "main": "null",
+  "scripts": {
+    "lint": "markdownlint ./docs/**/*.md",
+    "start": "docsify serve ./docs -o --port 3200"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhcarrigan/general-documentation.git"
+  },
+  "keywords": [
+    "docsify",
+    "documentation"
+  ],
+  "author": "Naomi Carrigan",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nhcarrigan/general-documentation/issues"
+  },
+  "homepage": "https://github.com/nhcarrigan/general-documentation#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.25.1",
+    "markdownlint-cli": "^0.31.1"
+  }
+}
