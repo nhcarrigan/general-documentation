@@ -8,7 +8,9 @@ You will also need to have `node.js` and `npm` installed and available on your m
 
 Log in to the [Discord Developer Portal](https://discord.com/developers/) and select `Applications` in the side-bar. If you have an existing application (such as a bot), you may use that - otherwise, create an application.
 
-> NOTE: Your application name will appear as the first line of text in the rich presence.
+> [!NOTE]
+>
+> Your application name will appear as the first line of text in the rich presence.
 
 Copy the `Client ID` for the application and pass that to the `clientId` property for the `loginOptions` object in `src/index.ts` - you will replace the existing client ID there.
 
@@ -25,6 +27,7 @@ The third is in the `src/config/activityStates.ts` file. This is an object that 
 The fourth is in the `src/config/activityImages.ts` file. This is an object that maps the available choices to specific images. These images will appear in your presence when you select the related choice.
 
 > [!NOTE]
+>
 > The `Signing Off` key is used to shut down the application and should not be removed.
 
 ## Uploading an Asset
@@ -33,7 +36,9 @@ Navigate to your application's page on the Developer Portal again. Select `Rich 
 
 Click the `Add Image(s)` button to upload an image. Select your image - Discord will upload it and you will be able to set the name of that asset. **This name is what you give to the `activityImages` value in the code.** Select `Save Changes` when you are done.
 
-> NOTE: The asset can take up to a couple of hours to be live and available in your RPC. If you refresh the developer portal page and the asset is not there, it has not finished processing yet.
+> [!NOTE]
+>
+> The asset can take up to a couple of hours to be live and available in your RPC. If you refresh the developer portal page and the asset is not there, it has not finished processing yet.
 
 ## Other Tweaks
 
@@ -51,4 +56,6 @@ You'll now see a prompt to select your activity state. When you select one, the 
 
 Enjoy your new toy!
 
-> NOTE: This needs to run on the same computer that you are running Discord on, so it cannot be hosted remotely. Additionally, it is confirmed to work with the Desktop client but has not been tested on the web client.
+> [!NOTE]
+>
+> This needs to run on the same computer that you are running Discord on, so it cannot be hosted remotely. Additionally, it is confirmed to work with the Desktop client but has not been tested on the web client.

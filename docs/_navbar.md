@@ -24,7 +24,7 @@
 - [Discord Message Counter](/discord-message-counter/index)
   - [Privacy Policy](/discord-message-counter/privacy)
 - [Discord RPC](/discord-rpc/index)
-  - [Privacy Policy](/discord-rpc/privacy)
+  - [Usage](/discord-rpc/usage)
 - [Discord Verification Bot](/discord-verification-bot/index)
 - [Hacktoberfest Contributor Generator](/hacktoberfest-contributor-generator/index)
   - [Usage](/hacktoberfest-contributor-generator/usage)
