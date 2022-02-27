@@ -26,6 +26,7 @@
 - [Discord RPC](/discord-rpc/index)
   - [Usage](/discord-rpc/usage)
 - [Discord Verification Bot](/discord-verification-bot/index)
+  - [Privacy Policy](/discord-verification-bot/privacy)
 - [Hacktoberfest Contributor Generator](/hacktoberfest-contributor-generator/index)
   - [Usage](/hacktoberfest-contributor-generator/usage)
 - [Inspiration Bot](/inspiration-bot/index)

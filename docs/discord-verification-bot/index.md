@@ -1,5 +1,18 @@
 # Discord Verification Bot
 
-This bot was written for the Commit Your Code server. It has a set of questions that users must answer in order to gain access to the server. Failing to answer a question correctly, or failing to verify within 30 minutes, results in the user being kicked.
+This bot is designed as a basic verification gate for your Discord server.
 
-[View the Code](https://github.com/nhcarrigan/discord-verification-bot) | [View the Live App](https://discord.gg/D453pGe)
+To get started, [invite the bot to your server](https://discord.com/api/oauth2/authorize?client_id=880171019409694742&permissions=268454914&scope=bot%20applications.commands).
+
+## Server Configuration
+
+The bot is designed to work with the following flow:
+
+- New members who join your server can only see a "verification" channel (one that is not visible to anyone else).
+  - Within that channel, you should run the `/start` command to set up your verification question, answers, and the role to assign. The bot will create a post explaining the process to new members, with a button to click to verify themselves.
+- Upon clicking the button, the member will be asked to answer the question. If they answer incorrectly, they are kicked. If they answer correctly, they are given the verification role.
+- If they do not verify in 30 minutes, they are kicked.
+
+Ideally, you should configure the verification role such that members **with** that role cannot see the verification channel.
+
+[View the Code](https://github.com/nhcarrigan/discord-verification-bot)
