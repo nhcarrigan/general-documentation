@@ -47,6 +47,21 @@ Now you are free to work on your code! When you are satisfied with your changes,
 - `-m` flag sets up the commit message.
 - `message` is the commit message: a brief (50 character max) message describing what the commit changes.
 
+## Testing Changes
+
+Many of our projects will have continuous integration (CI) checks that run on a pull request. To ensure your changes will pass, you can often test these locally.
+
+If the project has a `package.json` file, check for the following entries in the `scripts` property:
+
+- `build` - Running `npm run build` will confirm that a project successfully compiles. This is common in our TypeScript projects.
+- `lint` - Running `npm run lint` will ensure that the code style is correct.
+- `start` - Running `npm start` will confirm that the project boots up successfully.
+- `test` - Running `npm test` will ensure that the unit and functional tests all pass.
+
+You can also check the `.github/workflows` directory for `.yml` files. These files will describe the actual CI checks that run on your pull request.
+
+Ensuring these checks pass **before** submitting a pull request will streamline our review process.
+
 ## Submitting a Pull Request
 
 Once you have all of your changes made and committed, you can push them to your forked repository! Use `git push -u origin <branchname>`, where:
@@ -63,6 +78,14 @@ Now you can open the pull request! You should see a quick option to do so appear
 First, change the title of the pull request to match your branch name (following the conventions above!). Then, follow the instructions in the preset Pull Request template (make sure to complete any steps listed!).
 
 Congratulations! You've submitted your first pull request! We will review it as quickly as possible, so keep an eye out for approvals (or requested changes).
+
+## Pull Request Reviews
+
+All pull requests require a review before being merged. Most reviews will come from Naomi, but some projects may have additional staff who can submit reviews.
+
+If your pull request is approved, it will be merged and deployed depending on the project's deployment schedule and pipeline.
+
+If your pull request requires additional changes or information, we ask that you apply the changes promptly. Contributions with outstanding change requests that receive no activity within a week will be closed as stale.
 
 ## Other Contributions
 
