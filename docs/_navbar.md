@@ -6,6 +6,7 @@
 
 - [Code of Conduct](/coc)
 - [Contributing](/contributing)
+- [Issue/PR Labels](/labels)
 - [Privacy Policy](/privacy)
 - [Security Policy](/security)
 - [Terms of Service](/terms)
