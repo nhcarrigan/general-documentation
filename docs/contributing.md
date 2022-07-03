@@ -18,11 +18,9 @@ All of our issues are open to contributors! If you see an open issue you would l
 > [!NOTE]
 > Assigned issues that have not had any activity in a week will be unassigned.
 
-If an issue is already assigned, please look for another issue to contribute to.We use labels to help categorise issues:
+If an issue is already assigned, that means someone has expressed interest in working on it. We encourage you to reach out to them and collaborate on a PR together!
 
-- `good first issue` - These issues require minimal familiarity with our codebase. Please reserve these for first-time contributors.
-- `help wanted` - These issues are open to any contributors.
-- `staff only` - These issues are locked to project members/collaborators. Pull requests on these issues will not be accepted from outside contributors.
+We use special labels to help categorise issues. Feel free to [browse our breakdown of the labels](/labels.md).
 
 ## Working on your issue
 
