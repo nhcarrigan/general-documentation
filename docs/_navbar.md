@@ -13,6 +13,9 @@
 
 ---
 
+- [AMA Bot](/ama-bot/index)
+  - [Privacy Policy](/ama-bot/privacy)
+  - [Usage](/ama-bot/usage)
 - [Battlesnake](/battlesnake/index)
   - [Contributing](/battlesnake/contributing)
   - [Privacy Policy](/battlesnake/privacy)
