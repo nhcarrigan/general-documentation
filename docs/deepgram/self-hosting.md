@@ -8,11 +8,20 @@ This guide is for setting up and managing your own instance of the bot.
 - `pnpm` version 8 (check the `package.json` file for the specific version required)
 - A Discord bot configured in the [Discord Developer Portal](https://discord.com/developers/applications)
 
+> [!TIP]
+> This code is intended to run in a single server. You should disable the `Public Bot` option in your application's bot settings.
+
+## Bot Permissions
+
 > [!NOTE]
 > The bot requires the `Message Content` intent - ensure that is enabled in your application's bot settings.
 
-> [!TIP]
-> This code is intended to run in a single server. You should disable the `Public Bot` option in your application's bot settings.
+The bot requires the following permissions:
+
+- Manage Messages
+- Create Public Threads
+
+Be sure to invite it to your server with both the `bot` and `application.commands` scopes.
 
 ## Installation
 
