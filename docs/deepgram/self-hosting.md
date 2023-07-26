@@ -51,6 +51,12 @@ Fill in the environment variables with the following values:
 - `STICKY_MESSAGE_FREQUENCY`: This is the number (in **minutes**) between sticky message updates. The bot will wait this long before sending the sticky message again.
 - `AI_URL`: This is the base URL for API requests to your AI service. This should not include any paths. For example: `https://docs.nhcarrigan.com`.
 
+## Use without AI
+
+If you would like to use this bot without the AI functionality, leave the `AI_URL` value empty in the `.env` file. Without this, the bot will not generate an AI response or create the reply message with the buttons.
+
+You will still be able to use the `help` command to move questions to a forum, and the bot will still send sticky messages in the configured general channel.
+
 ## Configuration
 
 Most of the bot's responses can be edited directly in the `src/config/Responses.ts` file. This design decision aims to make it easier for you to customise the bot to your server's needs.
