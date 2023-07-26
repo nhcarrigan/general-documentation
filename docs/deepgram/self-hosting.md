@@ -64,7 +64,8 @@ The endpoints used for the AI service can be set in the `src/config/AiEndpoints.
 >
 > - You change the responses mentioned above
 > - You pull changes from the repository with `git pull`
->   Updates do NOT happen when you change the environment variables. You will only need to restart, not rebuild.
+>
+> Updates do NOT happen when you change the environment variables. You will only need to restart, not rebuild.
 
 Because the project uses TypeScript, you need to compile it to JavaScript.
 
