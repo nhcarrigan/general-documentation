@@ -8,7 +8,7 @@
 
 We are dedicated to providing a safe and harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-Members must be at least 13 years of age, [and the minimum age required by your country](https://support.discord.com/hc/en-us/articles/360040724612,) to participate in our community.
+Members must be at least 13 years of age, [and the minimum age required by your country](https://support.discord.com/hc/en-us/articles/360040724612), to participate in our community.
 
 ## Scope
 
