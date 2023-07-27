@@ -8,11 +8,20 @@ This guide is for setting up and managing your own instance of the bot.
 - `pnpm` version 8 (check the `package.json` file for the specific version required)
 - A Discord bot configured in the [Discord Developer Portal](https://discord.com/developers/applications)
 
+> [!TIP]
+> This code is intended to run in a single server. You should disable the `Public Bot` option in your application's bot settings.
+
+## Bot Permissions
+
 > [!NOTE]
 > The bot requires the `Message Content` intent - ensure that is enabled in your application's bot settings.
 
-> [!TIP]
-> This code is intended to run in a single server. You should disable the `Public Bot` option in your application's bot settings.
+The bot requires the following permissions:
+
+- Manage Messages
+- Create Public Threads
+
+Be sure to invite it to your server with both the `bot` and `application.commands` scopes.
 
 ## Installation
 
@@ -50,6 +59,12 @@ Fill in the environment variables with the following values:
 - `GENERAL_CHANNEL_ID`: This is the ID for your general chat channel. The sticky message will be posted here.
 - `STICKY_MESSAGE_FREQUENCY`: This is the number (in **minutes**) between sticky message updates. The bot will wait this long before sending the sticky message again.
 - `AI_URL`: This is the base URL for API requests to your AI service. This should not include any paths. For example: `https://docs.nhcarrigan.com`.
+
+## Use without AI
+
+If you would like to use this bot without the AI functionality, leave the `AI_URL` value empty in the `.env` file. Without this, the bot will not generate an AI response or create the reply message with the buttons.
+
+You will still be able to use the `help` command to move questions to a forum, and the bot will still send sticky messages in the configured general channel.
 
 ## Configuration
 
