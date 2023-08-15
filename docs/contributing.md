@@ -35,10 +35,9 @@ Before starting work, we highly recommend ensuring that your forked version is u
 
 Next, use `git checkout -b <branchname>` to create a new branch for your work. It's always a good idea to avoid committing changes directly to your `main` branch - this keeps it clean and avoids errors when updating (above).
 
-Branch names should follow a convention of `scope/issue?/description` where:
+Branch names should follow a convention of `scope/description` where:
 
 - `scope` is the nature of the changes (eg. `feat` for a new feature, or `docs` for documentation update). This should match the scope of the related issue.
-- `issue` is the _number_ for the related issue you're addressing.
 - `description` is a brief description of your changes, such as `update-contribs` for updating the contributing guidelines.
 
 Now you are free to work on your code! When you are satisfied with your changes, you can commit them with `git commit -s -m "message"`, where:
