@@ -46,16 +46,58 @@ Now you are free to work on your code! When you are satisfied with your changes,
 - `-m` flag sets up the commit message.
 - `message` is the commit message: a brief (50 character max) message describing what the commit changes.
 
+## Package Management
+
+We are in the process of migrating our Node.js projects from `npm` to `pnpm`. There are a few things to consider:
+
+- If you see a `package-lock.json` file, the project has _not_ been migrated yet and you should use `npm` for the project's commands.
+- If you see a `pnpm-lock.yaml` file, the project _has_ been migrated, and you should use `pnpm` for the project's commands.
+
+> [!TIP]
+> If you aren't sure which package manager to use, you can reach out to us in our [chat server](https://chat.nhcarrigan.com).
+
+### Installing Packages
+
+- If the project uses `npm`, you should run `npm ci` to install the packages. The `ci` command will read the `package-lock.json` file and install the exact versions of the packages listed there.
+- If the project uses `pnpm`, you should run `pnpm install`.
+
+### Adding Packages
+
+`npm install` and `pnpm install` will both allow you to add a new package. Use the correct command for the project.
+
+When adding a new package, you should use the `--save-exact` flag to pin the package version. The CI will check for unpinned versions when you open a PR.
+
+If the package is only for development (working on the project), and not needed for production (running the project), you should _also_ use the `--save-dev` flag to add the package to the `devDependencies` section of the `package.json` file.
+
+For example:
+
+```bash
+pnpm i --save-dev --save-exact @types/naomi # Adds a dev dependency
+pnpm i --save-exact naomi # Adds a production dependency
+```
+
+### Oops! I used `npm` when I should have used `pnpm`
+
+No worries! A quick note that if you ran `npm install` or `npm ci`, then `pnpm` will ignore the installed packages. You will need to run the following commands to get back in sync:
+
+```bash
+rm -rf package-lock.json node_modules
+pnpm install
+```
+
 ## Testing Changes
+
+> [!NOTE]
+> Make sure to follow the steps above to check which package manager the project uses, and use the appropriate commands.
 
 Many of our projects will have continuous integration (CI) checks that run on a pull request. To ensure your changes will pass, you can often test these locally.
 
 If the project has a `package.json` file, check for the following entries in the `scripts` property:
 
-- `build` - Running `npm run build` will confirm that a project successfully compiles. This is common in our TypeScript projects.
-- `lint` - Running `npm run lint` will ensure that the code style is correct.
-- `start` - Running `npm start` will confirm that the project boots up successfully.
-- `test` - Running `npm test` will ensure that the unit and functional tests all pass.
+- `build` - Running `pnpm run build` will confirm that a project successfully compiles. This is common in our TypeScript projects.
+- `lint` - Running `pnpm run lint` will ensure that the code style is correct.
+- `start` - Running `pnpm start` will confirm that the project boots up successfully.
+- `test` - Running `pnpm test` will ensure that the unit and functional tests all pass.
 
 You can also check the `.github/workflows` directory for `.yml` files. These files will describe the actual CI checks that run on your pull request.
 
