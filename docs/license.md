@@ -138,7 +138,7 @@ By making contributions to the software, whether in the form of code, documentat
 
 You hereby grant Us and Our successors a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to use, reproduce, modify, distribute, sublicense, and otherwise exploit Your Contributions, including any intellectual property rights therein, in any manner and for any purpose, without any obligation to provide attribution or compensation.
 
-You retain all copyright over Your Contributions, and may use Your Contributions in Works outside of this License.
+You retain all copyright over Your individual Contributions, and may use Your Contributions in Works outside of this License. Contributing to Our Software does not grant any copyright over the Software, with or without your Contributions.
 
 ### 8.2 Licensing of Contributions
 
