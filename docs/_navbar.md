@@ -2,6 +2,7 @@
 
 ---
 
+- [Software License](/license)
 - [Code of Conduct](/coc)
 - [Contributing](/contributing)
 - [Issue/PR Labels](/labels)
