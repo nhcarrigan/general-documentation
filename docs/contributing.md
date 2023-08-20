@@ -7,6 +7,9 @@ Looking for an issue to work on? Check out our [issue finder](https://contribute
 
 Please ensure all pull requests and contributions comply with the [Developer Certificate of Origin](https://developercertificate.org/).
 
+> [!NOTE]
+> All contributions to our projects will be licensed under our [global license](/license.md)
+
 ## Setting Up Your Code
 
 First, fork the repository to your own account. Then use `git clone <url>` to bring your forked repository down to your local machine (remember to get the URL for _your_ repository, not the original). Optionally, use `git remote add upstream <url>` to add the original repository as the upstream (this is helpful for keeping your fork up-to-date).

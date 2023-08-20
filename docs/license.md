@@ -1,308 +1,201 @@
-# License
-
-All of our open-source software are licensed under the **Mozilla Public License 2.0**.
-
-In addition to the license terms, we humbly ask that you consider the following when using our software, whether the use is public or private:
-
-- Please ensure that all use is in line with our [Code of Conduct](/coc).
-- Please do not use our software to harm others or spread hate or malice.
-- While our software is free and publicly available for use, any assets related to the software (such as our images) remain under copyright of the original owner.
-
-## License Text
-
-### 1. Definitions
-
-**1.1. "Contributor"**  
- means each individual or legal entity that creates, contributes to
-the creation of, or owns Covered Software.
-
-**1.2. "Contributor Version"**  
- means the combination of the Contributions of others (if any) used
-by a Contributor and that particular Contributor's Contribution.
-
-**1.3. "Contribution"**  
- means Covered Software of a particular Contributor.
-
-**1.4. "Covered Software"**  
- means Source Code Form to which the initial Contributor has attached
-the notice in Exhibit A, the Executable Form of such Source Code
-Form, and Modifications of such Source Code Form, in each case
-including portions thereof.
-
-**1.5. "Incompatible With Secondary Licenses"**  
- means
-
-- **(a)** that the initial Contributor has attached the notice described
-  in Exhibit B to the Covered Software; or
-- **(b)** that the Covered Software was made available under the terms of
-  version 1.1 or earlier of the License, but not also under the
-  terms of a Secondary License.
-
-**1.6. "Executable Form"**  
- means any form of the work other than Source Code Form.
-
-**1.7. "Larger Work"**  
- means a work that combines Covered Software with other material, in
-a separate file or files, that is not Covered Software.
-
-**1.8. "License"**  
- means this document.
-
-**1.9. "Licensable"**  
- means having the right to grant, to the maximum extent possible,
-whether at the time of the initial grant or subsequently, any and
-all of the rights conveyed by this License.
-
-**1.10. "Modifications"**  
- means any of the following:
-
-- **(a)** any file in Source Code Form that results from an addition to,
-  deletion from, or modification of the contents of Covered
-  Software; or
-- **(b)** any new file in Source Code Form that contains any Covered
-  Software.
+# Naomi's Public License
 
-**1.11. "Patent Claims" of a Contributor**  
- means any patent claim(s), including without limitation, method,
-process, and apparatus claims, in any patent Licensable by such
-Contributor that would be infringed, but for the grant of the
-License, by the making, using, selling, offering for sale, having
-made, import, or transfer of either its Contributions or its
-Contributor Version.
+All of Our Open Source Software are licensed under these terms.
 
-**1.12. "Secondary License"**  
- means either the GNU General Public License, Version 2.0, the GNU
-Lesser General Public License, Version 2.1, the GNU Affero General
-Public License, Version 3.0, or any later versions of those
-licenses.
+## 1. Definitions
 
-**1.13. "Source Code Form"**  
- means the form of the work preferred for making modifications.
+### 1.1. `Software`
 
-**1.14. "You" (or "Your")**  
- means an individual or a legal entity exercising rights under this
-License. For legal entities, "You" includes any entity that
-controls, is controlled by, or is under common control with You. For
-purposes of this definition, "control" means **(a)** the power, direct
-or indirect, to cause the direction or management of such entity,
-whether by contract or otherwise, or **(b)** ownership of more than
-fifty percent (50%) of the outstanding shares or beneficial
-ownership of such entity.
+- The code, documentation text, and other related materials licensed under this License.
 
-### 2. License Grants and Conditions
+### 1.2. `Assets`
 
-#### 2.1. Grants
-
-Each Contributor hereby grants You a world-wide, royalty-free,
-non-exclusive license:
-
-- **(a)** under intellectual property rights (other than patent or trademark)
-  Licensable by such Contributor to use, reproduce, make available,
-  modify, display, perform, distribute, and otherwise exploit its
-  Contributions, either on an unmodified basis, with Modifications, or
-  as part of a Larger Work; and
-- **(b)** under Patent Claims of such Contributor to make, use, sell, offer
-  for sale, have made, import, and otherwise transfer either its
-  Contributions or its Contributor Version.
-
-#### 2.2. Effective Date
+- The non-Software copyrighted materials, such as images, logos, and names.
 
-The licenses granted in Section 2.1 with respect to any Contribution
-become effective for each Contribution on the date the Contributor first
-distributes such Contribution.
-
-#### 2.3. Limitations on Grant Scope
-
-The licenses granted in this Section 2 are the only rights granted under
-this License. No additional rights or licenses will be implied from the
-distribution or licensing of Covered Software under this License.
-Notwithstanding Section 2.1(b) above, no patent license is granted by a
-Contributor:
-
-- **(a)** for any code that a Contributor has removed from Covered Software;
-  or
-- **(b)** for infringements caused by: **(i)** Your and any other third party's
-  modifications of Covered Software, or **(ii)** the combination of its
-  Contributions with other software (except as part of its Contributor
-  Version); or
-- **(c)** under Patent Claims infringed by Covered Software in the absence of
-  its Contributions.
-
-This License does not grant any rights in the trademarks, service marks,
-or logos of any Contributor (except as may be necessary to comply with
-the notice requirements in Section 3.4).
-
-#### 2.4. Subsequent Licenses
-
-No Contributor makes additional grants as a result of Your choice to
-distribute the Covered Software under a subsequent version of this
-License (see Section 10.2) or under the terms of a Secondary License (if
-permitted under the terms of Section 3.3).
-
-#### 2.5. Representation
-
-Each Contributor represents that the Contributor believes its
-Contributions are its original creation(s) or it has sufficient rights
-to grant the rights to its Contributions conveyed by this License.
-
-#### 2.6. Fair Use
-
-This License is not intended to limit any rights You have under
-applicable copyright doctrines of fair use, fair dealing, or other
-equivalents.
-
-#### 2.7. Conditions
-
-Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted
-in Section 2.1.
-
-### 3. Responsibilities
-
-#### 3.1. Distribution of Source Form
-
-All distribution of Covered Software in Source Code Form, including any
-Modifications that You create or to which You contribute, must be under
-the terms of this License. You must inform recipients that the Source
-Code Form of the Covered Software is governed by the terms of this
-License, and how they can obtain a copy of this License. You may not
-attempt to alter or restrict the recipients' rights in the Source Code
-Form.
-
-#### 3.2. Distribution of Executable Form
-
-If You distribute Covered Software in Executable Form then:
-
-- **(a)** such Covered Software must also be made available in Source Code
-  Form, as described in Section 3.1, and You must inform recipients of
-  the Executable Form how they can obtain a copy of such Source Code
-  Form by reasonable means in a timely manner, at a charge no more
-  than the cost of distribution to the recipient; and
-
-- **(b)** You may distribute such Executable Form under the terms of this
-  License, or sublicense it under different terms, provided that the
-  license for the Executable Form does not attempt to limit or alter
-  the recipients' rights in the Source Code Form under this License.
-
-#### 3.3. Distribution of a Larger Work
-
-You may create and distribute a Larger Work under terms of Your choice,
-provided that You also comply with the requirements of this License for
-the Covered Software. If the Larger Work is a combination of Covered
-Software with a work governed by one or more Secondary Licenses, and the
-Covered Software is not Incompatible With Secondary Licenses, this
-License permits You to additionally distribute such Covered Software
-under the terms of such Secondary License(s), so that the recipient of
-the Larger Work may, at their option, further distribute the Covered
-Software under the terms of either this License or such Secondary
-License(s).
-
-#### 3.4. Notices
-
-You may not remove or alter the substance of any license notices
-(including copyright notices, patent notices, disclaimers of warranty,
-or limitations of liability) contained within the Source Code Form of
-the Covered Software, except that You may alter any license notices to
-the extent required to remedy known factual inaccuracies.
-
-#### 3.5. Application of Additional Terms
-
-You may choose to offer, and to charge a fee for, warranty, support,
-indemnity or liability obligations to one or more recipients of Covered
-Software. However, You may do so only on Your own behalf, and not on
-behalf of any Contributor. You must make it absolutely clear that any
-such warranty, support, indemnity, or liability obligation is offered by
-You alone, and You hereby agree to indemnify every Contributor for any
-liability incurred by such Contributor as a result of warranty, support,
-indemnity or liability terms You offer. You may include additional
-disclaimers of warranty and limitations of liability specific to any
-jurisdiction.
-
-### 4. Inability to Comply Due to Statute or Regulation
-
-If it is impossible for You to comply with any of the terms of this
-License with respect to some or all of the Covered Software due to
-statute, judicial order, or regulation then You must: **(a)** comply with
-the terms of this License to the maximum extent possible; and **(b)**
-describe the limitations and the code they affect. Such description must
-be placed in a text file included with all distributions of the Covered
-Software under this License. Except to the extent prohibited by statute
-or regulation, such description must be sufficiently detailed for a
-recipient of ordinary skill to be able to understand it.
-
-### 5. Termination
-
-**5.1.** The rights granted under this License will terminate automatically
-if You fail to comply with any of its terms. However, if You become
-compliant, then the rights granted under this License from a particular
-Contributor are reinstated **(a)** provisionally, unless and until such
-Contributor explicitly and finally terminates Your grants, and **(b)** on an
-ongoing basis, if such Contributor fails to notify You of the
-non-compliance by some reasonable means prior to 60 days after You have
-come back into compliance. Moreover, Your grants from a particular
-Contributor are reinstated on an ongoing basis if such Contributor
-notifies You of the non-compliance by some reasonable means, this is the
-first time You have received notice of non-compliance with this License
-from such Contributor, and You become compliant prior to 30 days after
-Your receipt of the notice.
-
-**5.2.** If You initiate litigation against any entity by asserting a patent
-infringement claim (excluding declaratory judgment actions,
-counter-claims, and cross-claims) alleging that a Contributor Version
-directly or indirectly infringes any patent, then the rights granted to
-You by any and all Contributors for the Covered Software under Section
-2.1 of this License shall terminate.
-
-**5.3.** In the event of termination under Sections 5.1 or 5.2 above, all
-end user license agreements (excluding distributors and resellers) which
-have been validly granted by You or Your distributors under this License
-prior to termination shall survive termination.
-
-### 6. Disclaimer of Warranty
-
-Covered Software is provided under this License on an "as is" basis, without warranty of any kind, either expressed, implied, or statutory, including, without limitation, warranties that the Covered Software is free of defects, merchantable, fit for a particular purpose or non-infringing. The entire risk as to the quality and performance of the Covered Software is with You. Should any Covered Software prove defective in any respect, You(not any Contributor) assume the cost of any necessary servicing, repair, or correction. This disclaimer of warranty constitutes an essential part of this License. No use of any Covered Software is authorized under this License except under this disclaimer.
-
-### 7. Limitation of Liability
-
-Under no circumstances and under no legal theory, whether tort (including negligence), contract, or otherwise, shall any Contributor, or anyone who distributes Covered Software as permitted above, be liable to You for any direct, indirect, special, incidental, or consequential damages of any character including, without limitation, damages for lost profits, loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses, even if such party shall have been informed of the possibility of such damages. This limitation of liability shall not apply to liability for death or personal injury resulting from such party's negligence to the extent applicable law prohibits such limitation. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this exclusion and limitation may not apply to You.
-
-### 8. Litigation
-
-Any litigation relating to this License may be brought only in the
-courts of a jurisdiction where the defendant maintains its principal
-place of business and such litigation shall be governed by laws of that
-jurisdiction, without reference to its conflict-of-law provisions.
-Nothing in this Section shall prevent a party's ability to bring
-cross-claims or counter-claims.
-
-### 9. Miscellaneous
-
-This License represents the complete agreement concerning the subject
-matter hereof. If any provision of this License is held to be
-unenforceable, such provision shall be reformed only to the extent
-necessary to make it enforceable. Any law or regulation which provides
-that the language of a contract shall be construed against the drafter
-shall not be used to construe this License against a Contributor.
-
-### 10. Versions of the License
-
-#### 10.1. New Versions
-
-Mozilla Foundation is the license steward. Except as provided in Section
-10.3, no one other than the license steward has the right to modify or
-publish new versions of this License. Each version will be given a
-distinguishing version number.
-
-#### 10.2. Effect of New Versions
-
-You may distribute the Covered Software under the terms of the version
-of the License under which You originally received the Covered Software,
-or under the terms of any subsequent version published by the license
-steward.
-
-#### 10.3. Modified Versions
-
-If you create software not governed by this License, and you want to
-create a new license for such software, you may create and use a
-modified version of this License if you rename the license and remove
-any references to the name of the license steward (except to note that
-such modified license differs from this License).
+### 1.3. `Package`
+
+- Software specifically bundled to be used in other Works.
+
+### 1.4. `We`, `Us`, and `Our`
+
+- Naomi Carrigan, and her software consulting firm NHCarrigan.
+
+### 1.5. `You` and `Your`
+
+- The individual or entity exercising the rights granted under this License.
+
+### 1.5. `Contributor(s)`
+
+- An individual or entity who contributes to the Software.
+
+### 1.6. `Contribution(s)`
+
+- Any work submitted by a Contributor to the Software, such as Source Code or Assets.
+
+### 1.7. `Source Code`
+
+- The code in its original form, as written by the author(s).
+
+### 1.8. `Open Source`
+
+- Software where the Source Code has been made publicly available under this License.
+
+### 1.9. `License`
+
+- This document.
+
+### 1.10. `Works`
+
+- Any works derived from the Software, such as modifications, distributions, and incorporations.
+
+## 2. Use of Software
+
+This license grants You the right to use Our Open Source software under the following terms.
+
+### 2.1. Do No Harm
+
+You may not use Our Software in any way that may cause harm to Us, Our Software, or Our Assets. Additionally, You may not use Our Software in any way that may cause harm to other individuals or entities.
+
+### 2.2. Code of Conduct
+
+Use of Our Software must not be in violation of Our [Code of Conduct](https://docs.nhcarrigan.com/#/coc).
+
+### 2.3. Source Control
+
+Custom instances of Our Software must remain Open Source under this License.
+
+## 3. Modification of Software
+
+Modifications of Our Software are permitted under the following terms.
+
+### 3.1. Licensing
+
+All modifications of Our Software must be licensed under this License.
+
+### 3.2. Attribution
+
+All modifications of Our Software must be attributed to the original author(s) of the Software.
+
+## 4. Incorporation of Software
+
+Elements of Our Software, such as code snippets, may be incorporated into other Works under the following terms.
+
+### 4.1. Licensing
+
+The specific elements of Our Software used in another Work must be made available under this License. The portions of the project that are not incorporated from Our Software may be licensed under any terms.
+
+### 4.2. Attribution
+
+The specific elements of Our Software used in another must be attributed to the original author(s) of the Software.
+
+### 5. Use of Packages
+
+Certain Software may be packaged and distributed specifically for use in other Works. Software that We distribute in such a manner may be used in other Works under the following terms.
+
+### 5.1. Source Code
+
+Works that solely use Our Packages, and do not incorporate any other elements of Our Software, are not required to provide a link to the Source Code of Our Software.
+
+### 5.2. Attribution
+
+Works that solely use Our Packages, and do not incorporate any other elements of Our Software, are not required to provide copyright acknowledgement or attribution.
+
+### 5.3. Behaviour
+
+Works that solely use Our Packages, and do not incorporate any other elements of Our Software, are still required to follow our [Code of Conduct](https://docs.nhcarrigan.com/#/coc).
+
+## 6. Distribution
+
+Our Software, as well as any Works derived from Our Software, may be distributed under the following terms.
+
+### 6.1. Source Code
+
+Any Works that are publicly hosted must link to:
+
+- The Source Code for the Work, if the Work falls under Section 2.
+- The Source Code for incorporations of or modifications to Our Software, if the Work falls under Sections 3 or 4.
+
+### 6.2. Attribution
+
+Any Works that are publicly hosted must provide copyright acknowledgement:
+
+- Complete copyright acknowledgement to Naomi Carrigan, if the Work falls under Section 2.
+- Partial copyright acknowledgement to Naomi Carrigan, if the Work falls under Sections 3 or 4.
+
+## 7. Assets
+
+Any non-Software Asset, unless specifically provided with the Source Code of Our Software, may not be used in any Modifications, Incorporations, or Distributions of Our Software.
+
+Assets specifically belong to Us, and the License does not grant any rights to reuse, modification, or distribution of Assets.
+
+Prior versions of Our Software may have included Assets which were removed in a later version. The removal of an Asset from Our Source Code constitutes a revocation of the rights to use said Asset.
+
+## 8. Contributions
+
+By making contributions to the software, whether in the form of code, documentation, or any other material, You agree to the following:
+
+### 8.1 Grant of Copyright
+
+You hereby grant Us and Our successors a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to use, reproduce, modify, distribute, sublicense, and otherwise exploit Your Contributions, including any intellectual property rights therein, in any manner and for any purpose, without any obligation to provide attribution or compensation.
+
+You retain all copyright over Your individual Contributions, and may use Your Contributions in Works outside of this License. Contributing to Our Software does not grant any copyright over the Software, with or without your Contributions.
+
+### 8.2 Licensing of Contributions
+
+All contributions You make to the Software will be licensed under the same terms and conditions as the original Software, subject to the terms of this License. You understand and acknowledge that Your Contributions will become an integral part of the software and will be subject to the same rights and obligations as the original codebase.
+
+### 8.3 Representation
+
+You represent and warrant that You have the necessary rights to grant the above License and that Your Contributions do not infringe upon the intellectual property rights or other legal rights of any third party.
+
+## 9. Warranty
+
+The software provided under this license is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. The entire risk as to the quality and performance of the software is with You. Should the software prove defective, You assume the cost of all necessary servicing, repair, or correction.
+
+## 10. Limitation of Liability
+
+In no event unless required by applicable law or agreed to in writing will We or Our Contributors be liable to You for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use the software (including but not limited to loss of data or data being rendered inaccurate or losses sustained by You or third parties), even if We or Our Contributors have been advised of the possibility of such damages.
+
+Absolutely no liability will be held for Modifications or Incorporations of the Software. You are solely responsible for any damages caused by Your Modifications or Incorporations.
+
+## 11. Your Responsibility
+
+You acknowledge and agree that Your use of the software is at Your sole risk and discretion, and You are solely responsible for any loss or damage to Your computer system or other device, or loss of data that results from such use. You are also responsible for ensuring that Your use of the software complies with all applicable laws and regulations.
+
+## 12. Enforcement
+
+Enforcement of this License will be done at Our discretion. A decision not to enforce a License violation will not preclude Us from enforcing that violation or any other violation of this License in the future.
+
+## 13. Termination
+
+This License is effective until terminated. We may, at Our sole discretion, terminate this License at any time, with or without cause, and with or without notice. Upon termination, You shall cease all use of the software and destroy all copies, full or partial, of the software in Your possession.
+
+Termination of this License shall not relieve You of any obligations or liabilities accrued prior to the termination date, including but not limited to any indemnification obligations and limitations of liability outlined in this License.
+
+Breach of any terms or conditions of this License shall result in the immediate termination of this License.
+
+## 14. License Versions
+
+Versioning of this license is managed through GitHub. You may view the version history [in these commits](https://github.com/nhcarrigan/general-documentation/commits/main/docs/license.md).
+
+### 14.1 Future License Changes
+
+We reserve the right to modify the terms of this License, including its licensing of Contributions, at its sole discretion. In the event that such changes are made, We will make reasonable efforts to notify You through Our [chat channels](https://chat.nhcarrigan.com).
+
+### 14.2 Version Perpetuation
+
+All Works derived from this Software must be licensed under the latest version of this License. This includes Works that are modifications or incorporations of the Software.
+
+Changes to this License retroactively apply to all Works derived from this Software, even those created before the date of the changes.
+
+### 14.3 Last Updated
+
+The terms of this License were last modified on 20 August 2023.
+
+## 15. Contact
+
+If you have questions about this License, We may be reached in Our [chat server](https://chat.nhcarrigan.com).
+
+### 15.1. Suggestions
+
+This License is a living document. We are happy to hear suggestions about the terms of this License. Please reach out to Us in Our chat server.
