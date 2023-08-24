@@ -138,3 +138,9 @@ If you aren't comfortable with the codebase, or would like to contribute in othe
 - Documentation Updates: You are always welcome to update our documentation (like this file!) if you see any typos or anything that can be clarified.
 - Feature Requests: If you have ideas for new features or improvements, feel free to open an issue!
 - Bug Reports: We rely on our users to help identify bugs - if you see something wrong, please let us know with an issue!
+
+## Holopin Badges
+
+![Virtual badges featuring Naomi, Becca, and Rosalia](https://cdn.nhcarrigan.com/projects/holopin.png)
+
+Contributors are eligible to receive digital [Holopin](https://www.holopin.io/@naomis-novas) badges for their contributions to our projects. To claim your badge, fill out the template in our [Discord community](https://chat.nhcarrigan.com)!
