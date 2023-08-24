@@ -39,6 +39,12 @@ There are a couple of commands related to Naomi, which are added just for fun. Y
 
 These commands are under `/naomi`.
 
+### Plural Systems
+
+Melody allows you to proxy your messages much like PluralKit or Tupperbox. You can set up identities for your alters, configure a prefix, and choose an avatar. You can also set up auto-proxying.
+
+These commands are under `/plural`.
+
 ### Ticket System
 
 Melody also handles the private support ticket system. If you need to create a private discussion with our team, use the Open a Ticket button found in the `#our-work` channel.

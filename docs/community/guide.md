@@ -8,6 +8,12 @@ Our staff team consists of members who have been trusted with tools to help keep
 
 If you feel a staff decision was made in error or bad faith, do not argue directly with the team. Instead, fill out our [appeal form](/community/appeal) and we will review your case. Only Naomi has access to this form, and submissions will only be shared in the minimum capacity necessary to investigate and resolve the issue. Your name will not be associated with any revealed submission information.
 
+## Plural Systems
+
+Plural systems are more than welcome in our community. Please do not pressure someone to reveal information about one of their alters, or attempt to discover who used Melody's plural proxying.
+
+Systems are welcome to disclose whatever information they want about their alters.
+
 ## Tone Tags
 
 One of the biggest disadvantages of text-based communication is the loss of context that provides the tone of the message. To help with this, we use tone tags as needed when the tone of a message might be misinterpreted.
