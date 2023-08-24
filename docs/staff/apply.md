@@ -15,6 +15,9 @@ Please be as thorough and detailed in your application as possible. Low-effort s
 
 ## Links
 
+> [!NOTE]
+> Applications may be shared with existing staff members to discuss and review.
+
 - [Support Staff](https://airtable.com/shrPErFO1MV83qP36)
 - [Developer/Maintainer Team](https://airtable.com/shr2fJFJnlOMnE0JI)
 - [Moderator](https://airtable.com/shrNiJi8YtxkqS6in)

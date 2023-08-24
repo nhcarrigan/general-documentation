@@ -29,6 +29,8 @@ This code of conduct applies to all of our community spaces, including public ch
 - No use or abuse of “Reverse”-isms, including “reverse racism,” “reverse sexism,” and “cisphobia” against marginalized members. “Reverse”-isms and any concepts that uphold and bulwark white and privileged supremacies out of the context of challenging it will be shut down.
 - No debating the rights and lived experiences of marginalized people in the community.
 - No racist, sexist, cissexist, ableist or otherwise oppressive behaviour is allowed, casual or explicit. This includes any harmful language, behaviour, or action toward people of colour, trans folks, disabled and other marginalized identities in our community. These are violations of the Code of Conduct.
+- No use of slurs or hateful terminology.
+- No spam or excessive self-promotion.
 
 ### Harassment
 
@@ -43,6 +45,7 @@ Harassment includes:
 - Unwelcome sexual attention
 - Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
 - Continued one-on-one communication after requests to cease
+- Targeted and deliberate aggression.
 
 ## Reporting
 
