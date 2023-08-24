@@ -9,6 +9,7 @@
 - [Privacy Policy](/community/privacy)
 - [Security Policy](/community/security)
 - [Terms of Service](/community/terms)
+- [Appeal a Mod Action](/community/appeal)
 
 ---
 
