@@ -58,7 +58,7 @@ You may not use Our Software in any way that may cause harm to Us, Our Software,
 
 ### 2.2. Code of Conduct
 
-Use of Our Software must not be in violation of Our [Code of Conduct](https://docs.nhcarrigan.com/#/community/coc).
+Use of Our Software must not be in violation of Our [Code of Conduct](https://docs.nhcarrigan.com/#/coc).
 
 ### 2.3. Source Control
 

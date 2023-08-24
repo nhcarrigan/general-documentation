@@ -2,13 +2,16 @@
 
 ---
 
-- [Software License](/community/license)
-- [Code of Conduct](/community/coc)
-- [Contributing](/community/contributing)
+- [Software License](/license)
+- [Code of Conduct](/coc)
+- [Contributing](/contributing)
+- [Privacy Policy](/privacy)
+- [Security Policy](/security)
+- [Terms of Service](/terms)
+
+---
+
 - [Issue/PR Labels](/community/labels)
-- [Privacy Policy](/community/privacy)
-- [Security Policy](/community/security)
-- [Terms of Service](/community/terms)
 - [Appeal a Mod Action](/community/appeal)
 
 ---
