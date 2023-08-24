@@ -58,7 +58,7 @@ You may not use Our Software in any way that may cause harm to Us, Our Software,
 
 ### 2.2. Code of Conduct
 
-Use of Our Software must not be in violation of Our [Code of Conduct](https://docs.nhcarrigan.com/#/coc).
+Use of Our Software must not be in violation of Our [Code of Conduct](https://docs.nhcarrigan.com/#/community/coc).
 
 ### 2.3. Source Control
 
@@ -176,7 +176,7 @@ Breach of any terms or conditions of this License shall result in the immediate 
 
 ## 14. License Versions
 
-Versioning of this license is managed through GitHub. You may view the version history [in these commits](https://github.com/nhcarrigan/general-documentation/commits/main/docs/license.md).
+Versioning of this license is managed through GitHub. You may view the version history [in these commits](https://github.com/nhcarrigan/general-documentation/commits/main/docs/community/license.md).
 
 ### 14.1 Future License Changes
 

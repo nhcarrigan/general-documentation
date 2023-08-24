@@ -8,7 +8,7 @@ Looking for an issue to work on? Check out our [issue finder](https://contribute
 Please ensure all pull requests and contributions comply with the [Developer Certificate of Origin](https://developercertificate.org/).
 
 > [!NOTE]
-> All contributions to our projects will be licensed under our [global license](/license.md)
+> All contributions to our projects will be licensed under our [global license](/community/license.md)
 
 ## Setting Up Your Code
 
