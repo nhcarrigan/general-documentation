@@ -88,7 +88,7 @@ The specific elements of Our Software used in another Work must be made availabl
 
 The specific elements of Our Software used in another must be attributed to the original author(s) of the Software.
 
-### 5. Use of Packages
+## 5. Use of Packages
 
 Certain Software may be packaged and distributed specifically for use in other Works. Software that We distribute in such a manner may be used in other Works under the following terms.
 
@@ -176,7 +176,7 @@ Breach of any terms or conditions of this License shall result in the immediate 
 
 ## 14. License Versions
 
-Versioning of this license is managed through GitHub. You may view the version history [in these commits](https://github.com/nhcarrigan/general-documentation/commits/main/docs/community/license.md).
+Versioning of this license is managed through GitHub. You may view the version history [in these commits](https://github.com/nhcarrigan/general-documentation/commits/main/docs/license.md).
 
 ### 14.1 Future License Changes
 
