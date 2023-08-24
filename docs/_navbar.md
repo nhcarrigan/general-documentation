@@ -48,4 +48,12 @@
 
 ---
 
+- [Staff Guidelines](/staff/start)
+- [Moderator Handbook](/staff/moderator)
+- [Developer Flight Manual](/staff/developer)
+- [Support Standards](/staff/support)
+- [Join the Team](/staff/apply)
+
+---
+
 © 2022 - [Naomi Carrigan](https://www.nhcarrigan.com)
