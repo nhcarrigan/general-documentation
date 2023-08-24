@@ -11,6 +11,7 @@
 
 ---
 
+- [Community Guidelines](/community/guide)
 - [Issue/PR Labels](/community/labels)
 - [Appeal a Mod Action](/community/appeal)
 
