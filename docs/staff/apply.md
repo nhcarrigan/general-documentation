@@ -7,17 +7,8 @@ Our staff team consists of moderators, developers, support specialists, artists,
 
 ## Application Process
 
-We use Airtable to track staff applications. Select the link for the role you are interested in, and we will gladly review.
+We use Airtable to track staff applications. Application links are available in our [Discord server](https://chat.nhcarrigan.com).
 
 You should hear back from us within 3 to 5 days. If you you do not hear from us, ping Naomi in the chat server and we will take a look.
 
 Please be as thorough and detailed in your application as possible. Low-effort submissions will not be considered.
-
-## Links
-
-> [!NOTE]
-> Applications may be shared with existing staff members to discuss and review.
-
-- [Support Staff](https://airtable.com/shrPErFO1MV83qP36)
-- [Developer/Maintainer Team](https://airtable.com/shr2fJFJnlOMnE0JI)
-- [Moderator](https://airtable.com/shrNiJi8YtxkqS6in)
