@@ -47,6 +47,12 @@ Harassment includes:
 - Continued one-on-one communication after requests to cease
 - Targeted and deliberate aggression.
 
+## No AI
+
+We firmly believe in the rights of creators and the importance of their work. Because AI models are oft trained on data scraped from the internet, or acquired through shady and vague terms of service, content generated or modified by AI is not permitted within our community.
+
+Exceptions may be made in specific cases where you can evidence that the model was trained only on consensually given data. Such exceptions must be requested from Naomi **before** sharing the content within any of our community spaces.
+
 ## Reporting
 
 If you see a violation or have any other concerns, please contact our community leaders by typing `@Moderator` in our Discord server, or contact a leader directly via DM. If the violator is on our staff team, they will recuse themselves from handling your incident and will be investigated further by the rest of the team. We will respond as promptly as we can.
