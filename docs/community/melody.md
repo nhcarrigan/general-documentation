@@ -6,6 +6,8 @@ You may see Melody in our Discord, or responding to issues on GitHub. Melody is 
 
 On GitHub, Melody handles the automatic invitation flow for new organisation members.
 
+She also welcomes new contributors, and thanks contributors when a PR is merged.
+
 ## Discord
 
 Melody is much more full featured on Discord. She has a number of commands that you can use to interact with the community.
@@ -39,11 +41,17 @@ There are a couple of commands related to Naomi, which are added just for fun. Y
 
 These commands are under `/naomi`.
 
+There is also a `/tarot` command, which allows you to get a daily tarot card reading, and a `/yokai` command, which allows you to get information about a random yokai.
+
 ### Plural Systems
 
 Melody allows you to proxy your messages much like PluralKit or Tupperbox. You can set up identities for your alters, configure a prefix, and choose an avatar. You can also set up auto-proxying.
 
 These commands are under `/plural`.
+
+### Streams
+
+Naomi streams on [Twitch](https://twitch.tv/naomilgbt), and Melody has a couple of commands to support this. The `/game` command allows you to fetch a random game from Naomi's library, and the `/queue` command allows you to see Naomi's planned list of games to play on stream.
 
 ### Ticket System
 
