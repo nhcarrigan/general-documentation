@@ -49,3 +49,7 @@ On GitHub, our community organisation has a `moderators` team. Within this team,
 These are places where you can bring up concerns, ask fellow moderators how they would approach a situation, or request assistance in dealing with an issue. We will gladly help you resolve the problems at hand.
 
 Remember that we are a team. We do not want to disagree with each other publicly. If you have concerns about a moderation action, or about a fellow moderator's actions, discuss them in one of these private areas. If you cannot reach a resolution, reach out to Naomi for guidance.
+
+## Logging Actions
+
+Moderation actions on Discord are automatically logged. However, moderation actions on other platforms should be manually logged to the `#moderation-log` channel in our Discord community.

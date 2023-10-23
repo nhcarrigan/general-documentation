@@ -99,6 +99,12 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 **Consequence**: A permanent ban from all of our community platforms.
 
+## Moderation Logs
+
+Our community platforms are meant to belong to all members of our community. Our moderation team are trusted with tools to help keep the community spaces safe, but they are still accountable to the community members.
+
+As such, **all moderation actions** across **all platforms** are publicly logged in our `#moderation-log` channel in the [Discord community](https://chat.nhcarrigan.com).
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), version 2.1 and the [LGBTQ in Tech Code of Conduct](https://lgbtq.technology/coc.html)
