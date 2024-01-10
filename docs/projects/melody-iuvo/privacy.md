@@ -12,8 +12,11 @@ The use of this application is subject to this Privacy Policy. By using this app
 In order to operate, the application collects and stores the following data:
 
 - Discord User ID: The bot tracks your Discord user ID to associate database records with your user account.
-- Repository Name and Owner: The bot tracks the owner/name of repositories that are sent in the project sharing channel.
-- Timestamp: The bot tracks the last time your account shared a specific repository to determine if it is within the configured cooldown.
+- Last Seen: The bot tracks the last time you were seen sending a message in the server, for the prune system.
+- Currency: The bot tracks the amount of currency ("NaomiCoin") you have accrued.
+- Plurals: The bot tracks the information you provide for any alters through the plural system.
+- Currency Timestamp: The bot tracks the last time you claimed the daily currency award.
+- Birthday: The bot tracks the birthday information you provide, to send the daily post.
 
 ## Right to Request Data
 
