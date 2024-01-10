@@ -1,5 +1,10 @@
 # Privacy Policy
 
+> [!DANGER]
+> In the spirit of open source, errors are logged publicly in our Discord community. These logs may include information relevant to the error in question.
+>
+> We encourage you to [join our Discord](https://chat.nhcarrigan.com) to see what is logged PRIOR to using our applications.
+
 The use of this application is subject to this Privacy Policy. By using this application, you agree to the collection and use of your personal data in accordance with this Privacy Policy.
 
 ## Data Collected

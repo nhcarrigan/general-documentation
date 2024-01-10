@@ -3,6 +3,11 @@
 > [!TIP]
 > This privacy policy covers general data use and collection. Projects may have their own, more specific privacy policy, which applies **in addition** to this policy.
 
+> [!DANGER]
+> In the spirit of open source, errors are logged publicly in our Discord community. These logs may include information relevant to the error in question.
+>
+> We encourage you to [join our Discord](https://chat.nhcarrigan.com) to see what is logged PRIOR to using our applications.
+
 The use of our applications may require collection of specific data.
 
 ## Analytics
