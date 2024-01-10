@@ -11,20 +11,20 @@ The use of this application is subject to this Privacy Policy. By using this app
 
 In order to operate, the application collects and stores the following data:
 
-- Discord server ID: The application stores the Discord server ID to associate database records with specific Discord servers.
-- Verification Details: The application stores the configured verification question, answers, and role to assign.
+- Discord user ID: The application stores your discord user ID to associate your database record with your Discord account.
+- Birthday: The application stores the birthday you provide to know when to post the daily message.
 
 ## Right to Request Data
 
-A server owner may request to view the data via our [support server](https://chat.nhcarrigan.com).
+At any time, you may request a complete copy of your data stored by the application. Requests must be done via our [support server](https://chat.nhcarrigan.com) from the Discord account the data belongs to. This ensures that a user cannot impersonate you and request your data.
 
 ## Right to Removal
 
-A server owner may request removal of data by kicking the bot from the server, or reaching out to our support team in [our support server](https://chat.nhcarrigan.com).
+At any time, you may request complete removal of your stored data. Requests must be done via our [support server](https://chat.nhcarrigan.com) from the Discord account the data belongs to. This ensures that a user cannot impersonate you and request your data. This will **not** opt you out of future data collection unless specifically requested.
 
-## Right to OptOut
+## Right to Opt Out
 
-As no user information is collected, individual users do not have an opt out process. Servers may opt out of data collection by removing the bot.
+At any time, you may request to opt out of data collection for this application by requesting removal of your data and discontinuing interaction with the application.
 
 ## Data Retention
 

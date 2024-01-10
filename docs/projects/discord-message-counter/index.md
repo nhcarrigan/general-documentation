@@ -12,4 +12,4 @@ Invite the bot with [this invite link](https://discord.com/api/oauth2/authorize?
 
 The `/display` command can be used to show a leaderboard of users by message count, and the `/reset` command can clear your server's message counts.
 
-[View the Code](https://github.com/nhcarrigan/discord-message-counter) | [View the Live App](https://discord.gg/fcDTTyMPtv)
+[View the Code](https://github.com/nhcarrigan/discord-message-counter) | [Invite the Bot](https://discord.com/api/oauth2/authorize?client_id=888294003966103572&permissions=0&scope=bot%20applications.commands)

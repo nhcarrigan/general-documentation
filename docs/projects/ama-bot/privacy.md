@@ -29,11 +29,11 @@ At any time, you may request to opt out of data collection for this application.
 
 ## Data Retention
 
-Data is stored for the minimum necessary time to ensure the application is able to function.
+Data are stored for the minimum necessary time to ensure the application is able to function.
 
 ## Availability of Data
 
-Data is available to members of the development team, for the express purpose of debugging, improving, and contributing to the application.
+Data are available to members of the development team, for the express purpose of debugging, improving, and contributing to the application.
 
 ## Questions
 

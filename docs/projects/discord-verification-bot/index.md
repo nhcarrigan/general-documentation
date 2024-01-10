@@ -2,8 +2,6 @@
 
 This bot is designed as a basic verification gate for your Discord server.
 
-To get started, [invite the bot to your server](https://discord.com/api/oauth2/authorize?client_id=880171019409694742&permissions=268454914&scope=bot%20applications.commands).
-
 ## Server Configuration
 
 The bot is designed to work with the following flow:
@@ -15,4 +13,4 @@ The bot is designed to work with the following flow:
 
 Ideally, you should configure the verification role such that members **with** that role cannot see the verification channel.
 
-[View the Code](https://github.com/nhcarrigan/discord-verification-bot)
+[View the Code](https://github.com/nhcarrigan/discord-verification-bot) | [Invite the Bot](https://discord.com/api/oauth2/authorize?client_id=880171019409694742&permissions=268454914&scope=bot%20applications.commands)

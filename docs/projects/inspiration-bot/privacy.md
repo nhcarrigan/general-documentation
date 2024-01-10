@@ -17,7 +17,7 @@ In order to operate, the application collects and stores the following data:
 
 ## Right to Request Data
 
-As no user data is stored, no requests to view data are necessary.
+As no user data are stored, no requests to view data are necessary.
 
 ## Right to Removal
 
@@ -25,15 +25,15 @@ A server may request removal of their data via our [support server](https://chat
 
 ## Right to Opt Out
 
-Individual users may not opt out of data collection, as no user data is collected. A server may opt out by removing the bot.
+Individual users may not opt out of data collection, as no user data are collected. A server may opt out by removing the bot.
 
 ## Data Retention
 
-Data is stored for the minimum necessary time to ensure the application is able to function.
+Data are stored for the minimum necessary time to ensure the application is able to function.
 
 ## Availability of Data
 
-Data is available to members of the development team, for the express purpose of debugging, improving, and contributing to the application.
+Data are available to members of the development team, for the express purpose of debugging, improving, and contributing to the application.
 
 ## Questions
 

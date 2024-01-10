@@ -1,7 +1,5 @@
 # Deepgram Discord Bot
 
-This is a bot that was specifically written to help facilitate the help-post flow in the [Deepgram Discord server](dpgr.am/discord).
+This is a bot that was specifically written to help facilitate the help-post flow in the DeepGram Discord.
 
-Looking to [use their live bot](/projects/deepgram/usage)?
-
-Or are you responsible for [hosting the bot](/projects/deepgram/self-hosting)?
+[View the Code](https://github.com/nhcarrigan/azuliah-bot) | [View the Live App](https://dpgr.am/discord)

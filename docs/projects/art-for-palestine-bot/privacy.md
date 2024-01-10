@@ -11,11 +11,8 @@ The use of this application is subject to this Privacy Policy. By using this app
 
 In order to operate, the application collects and stores the following data:
 
-- Discord server ID: The application stores the Discord server ID to associate database records with specific Discord servers.
-- Discord user ID: The application stores your discord user ID to associate the database record with your account.
-- Discord user tag: The application stores your user tag (e.g. nhcarrigan#0001) to provide a human-readable connection between your Discord account and your database record.
-- Messages: The application stores a numerical count of the messages you have sent in the server. The bot does **not** store any content from those messages.
-- Timestamp: The application stores the timestamp of one of your recent messages, used in the cooldown system to prevent spam.
+- Discord user ID: The application stores your discord user ID to track art rewards you have claimed as an artist.
+- Discord message ID: The application stores the message ID for art rewards which are claimed.
 
 ## Right to Request Data
 
