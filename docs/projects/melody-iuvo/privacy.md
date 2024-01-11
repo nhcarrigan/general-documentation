@@ -11,11 +11,12 @@ The use of this application is subject to this Privacy Policy. By using this app
 
 In order to operate, the application collects and stores the following data:
 
-- Discord server ID: The application stores the Discord server ID to associate database records with specific Discord servers.
-- Discord user ID: The application stores your discord user ID to associate the database record with your account.
-- Discord user tag: The application stores your user tag (e.g. nhcarrigan#0001) to provide a human-readable connection between your Discord account and your database record.
-- Messages: The application stores a numerical count of the messages you have sent in the server. The bot does **not** store any content from those messages.
-- Timestamp: The application stores the timestamp of one of your recent messages, used in the cooldown system to prevent spam.
+- Discord User ID: The bot tracks your Discord user ID to associate database records with your user account.
+- Last Seen: The bot tracks the last time you were seen sending a message in the server, for the prune system.
+- Currency: The bot tracks the amount of currency ("NaomiCoin") you have accrued.
+- Plurals: The bot tracks the information you provide for any alters through the plural system.
+- Currency Timestamp: The bot tracks the last time you claimed the daily currency award.
+- Birthday: The bot tracks the birthday information you provide, to send the daily post.
 
 ## Right to Request Data
 
@@ -27,7 +28,7 @@ At any time, you may request complete removal of your stored data. Requests must
 
 ## Right to Opt Out
 
-At any time, you may request to opt out of data collection for this application. Requests must be done via our [support server](https://chat.nhcarrigan.com) from the Discord account the data belongs to. This ensures that a user cannot impersonate you and request your data. Note that opting out of data collection may prevent you from interacting with the application.
+At any time, you may request to opt out of data collection for this application by requesting removal of your data and discontinuing interaction with the application.
 
 ## Data Retention
 

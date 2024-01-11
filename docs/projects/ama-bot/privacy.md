@@ -1,5 +1,10 @@
 # Privacy Policy
 
+> [!DANGER]
+> In the spirit of open source, errors are logged publicly in our Discord community. These logs may include information relevant to the error in question.
+>
+> We encourage you to [join our Discord](https://chat.nhcarrigan.com) to see what is logged PRIOR to using our applications.
+
 The use of this application is subject to this Privacy Policy. By using this application, you agree to the collection and use of your personal data in accordance with this Privacy Policy.
 
 ## Data Collected
@@ -24,11 +29,11 @@ At any time, you may request to opt out of data collection for this application.
 
 ## Data Retention
 
-Data is stored for the minimum necessary time to ensure the application is able to function.
+Data are stored for the minimum necessary time to ensure the application is able to function.
 
 ## Availability of Data
 
-Data is available to members of the development team, for the express purpose of debugging, improving, and contributing to the application.
+Data are available to members of the development team, for the express purpose of debugging, improving, and contributing to the application.
 
 ## Questions
 

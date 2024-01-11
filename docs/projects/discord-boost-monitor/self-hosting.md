@@ -1,4 +1,4 @@
-# Usage
+# Self Hosting
 
 This application is designed to support a single Discord server. As such, there are some configurations you will need to adjust to make it work for your server. Assuming you have cloned the GitHub repository...
 

@@ -1,7 +1,7 @@
 # Contributing
 
 > [!TIP]
-> This document provides a high-level overview of contributing to our projects. Check with each project's repository for more specific instructions, if needed.
+> This document provides a high-level overview of contributing to our projects. Check with each project's documentation for more specific or supplemental instructions, if needed.
 
 Looking for an issue to work on? Check out our [issue finder](https://contribute.nhcarrigan.com)!
 

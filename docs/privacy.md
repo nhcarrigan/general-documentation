@@ -1,37 +1,46 @@
 # Privacy Policy
 
 > [!TIP]
-> This privacy policy covers general data use and collection. Projects may have their own, more specific privacy policy, which applies **in addition** to this policy.
+> This privacy policy covers general data use and collection. Projects may have their own, more specific privacy policy, which applies **in addition** to this policy. Changes to this policy, as well as aforementioned project level policies, are retroactive. Use of our applications constitutes an acceptance of the most recent, current version of any applicable policies.
+
+> [!DANGER]
+> In the spirit of open source, errors are logged publicly in our Discord community. These logs may include information relevant to the error in question.
+>
+> We encourage you to [join our Discord](https://chat.nhcarrigan.com) to see what is logged PRIOR to using our applications.
 
 The use of our applications may require collection of specific data.
 
-## Analytics
+## Data Collection
 
-Our web applications use Fathom Analytics to collect anonymous usage data. This data is used to improve the quality of our applications and to help us understand how our users use them. The data collected includes:
+While we do our best to keep documentation up to date, it is entirely possible that an application collects data which are not documented. These terms provide general guidance on how to request or remove your data, or opt out of data collection.
 
-- The URL visited
-- The site that referred the user to our site
-- The type of device used
-- The browser used
-- The country of origin for the request
-- UTM metrics from the link
+### Data Collected
 
-No personally identifiable information is collected. You can [view Fathom's privacy commitment](https://usefathom.com/privacy-focused-web-analytics) for more information.
+At any time, you may request a confirmation of the type and nature of data a specific application collects through our [support server](https://chat.nhcarrigan.com).
 
-## Visibility of Data
+### Right to Request Data
 
-Our analytics data is 100% public and available for you to view. We firmly believe that this transparency helps establish trust with our users, and allows confidence in our data-handling policies.
+At any time, you may request a complete copy of your data stored by one of our applications. Requests must be done via our [support server](https://chat.nhcarrigan.com) from the Discord account the data belongs to. This ensures that a user cannot impersonate you and request your data. We may request additional identifying information, depending on the structure of the data collected by the application.
 
-View analytics for a given domain:
+### Right to Removal
 
-- [nhcarrigan](https://app.usefathom.com/share/jbvircku/nhcarrigan)
-- [beccalyria](https://app.usefathom.com/share/ftowqogv/becca+lyria)
-- [rosalianightsong](https://app.usefathom.com/share/daeurttc/rosalia+nightsong)
-- [beccalia](https://app.usefathom.com/share/ebepalsc/beccalia)
+At any time, you may request complete removal of your stored data. Requests must be done via our [support server](https://chat.nhcarrigan.com) from the Discord account the data belongs to. This ensures that a user cannot impersonate you and request your data. We may request additional identifying information, depending on the structure of the data collected by the application.
 
-## Cookies
+This will **not** opt you out of future data collection unless specifically requested. We reserve the right to refuse removal requests when the data are necessary for specific functionality of the app, in circumstances where removing your data would compromise the functionality for all users.
 
-Unless specified in a project-specific Policy, our applications do not make the use of cookies or other tracking mechanisms (aside from the above-mentioned analytics) to monitor your internet usage. If you discover one of our applications is using unauthorised cookies, please notify us immediately so we can investigate a potential attack or security issue.
+### Right to Opt Out
+
+At any time, you may request to opt out of data collection for an application by requesting removal of your data and discontinuing interaction with the application. We may request additional identifying information, depending on the structure of the data collected by the application.
+
+We reserve the right to refuse opt-out requests when the data are necessary for specific functionality of the app, in circumstances where opting-out would compromise the functionality for all users.
+
+### Data Retention
+
+Data are stored for the minimum necessary time to ensure the application is able to function.
+
+### Availability of Data
+
+Data are available to members of the development team, for the express purpose of debugging, improving, and contributing to the application.
 
 ## Contact
 

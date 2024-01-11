@@ -1,7 +1,7 @@
 # Terms of Service
 
 > [!TIP]
-> These terms may be subject to change. Use of our applications are subject to these terms, unless the application has it's own terms and conditions - in which case these terms will be superseded by the application's terms and conditions.
+> These terms may be subject to change. Use of our applications are subject to these terms, unless the application has its own terms and conditions - in which case these terms will be superseded by the application's terms and conditions. Changes to this policy, as well as aforementioned project level policies, are retroactive. Use of our applications constitutes an acceptance of the most recent, current version of any applicable policies.
 
 ## OVERVIEW
 
