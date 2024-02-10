@@ -56,15 +56,31 @@ Fill in the environment variables with the following values:
 - `DEBUG_HOOK`: This is a URL to a Discord webhook where error messages will be sent. You can create a webhook in the channel settings, under `Integrations`.
 - `HELPER_ROLE_IDS`: This is a list of role IDs that you want to be identified as server helpers (people with permission to use all of the bot's features). This should be a comma-separated list (NO SPACES). For example: `HELPER_ROLE_IDS="875177422654406707,935355569278181396"`
 - `HELP_CHANNEL_ID`: This is the ID for the channel that questions should be reposted in. This **must** be a forum channel, or the bot will error out on loading.
-- `GENERAL_CHANNEL_ID`: This is the ID for your general chat channel. The sticky message will be posted here.
+- `GENERAL_CHANNEL_ID`: This is the ID for your general chat channel. The sticky message will be posted here. Daily posts of 3 most recent unanswered questions will be posted here.
+- `MOD_CHANNEL_ID`: This is the ID for your moderator chat channel. Weekly posts of **answered** threads, and daily posts of **all** unanswered threads, will be posted here.
 - `STICKY_MESSAGE_FREQUENCY`: This is the number (in **minutes**) between sticky message updates. The bot will wait this long before sending the sticky message again.
 - `AI_URL`: This is the base URL for API requests to your AI service. This should not include any paths. For example: `https://docs.nhcarrigan.com`.
+- `GITHUB_TOKEN`: This is the PAT for the account you would like to create discussions.
+- `GITHUB_OWNER`: This is the user/organisation that owns the repository you would like to create discussions on.
+- `GITHUB_REPO`: This is the repository you would like to create discussions on.
+- `PRODUCT_BOARD_API_KEY`: This is the API token for the ProductBoard.com account you would like to create notes with.
 
-## Use without AI
+> [!TIP]
+> The following keys are entirely optional.
+> `AI_URL`: Without this, the `move to help channel` context command will not generate AI responses. Will still complete all other functions.
+> `GITHUB_*`: If ANY of the GitHub values are missing, the `Mark as answered` command will not generate a GitHub discussion. Will still complete all other functions.
+> `PRODUCT_BOARD_API_KEY`: Without this, the `Send to Product Board` context command will not function.
 
-If you would like to use this bot without the AI functionality, leave the `AI_URL` value empty in the `.env` file. Without this, the bot will not generate an AI response or create the reply message with the buttons.
+## Help Channel
 
-You will still be able to use the `help` command to move questions to a forum, and the bot will still send sticky messages in the configured general channel.
+The help channel **must** be a forum channel. In order for the bot to function, it also needs to have the following **case-sensitive** tags:
+
+- `Question`
+- `Answered`
+- `Inactive`
+
+> ![DANGER]
+> These tags MUST be marked as "Only allow moderators to apply tag", or the bot will not be able to find them.
 
 ## Configuration
 
