@@ -52,7 +52,7 @@ Now you are free to work on your code! When you are satisfied with your changes,
 
 ### Installing Packages
 
-- If the project uses `pnpm`, you should run `pnpm install`.
+Use `pnpm install` to install all current packages.
 
 ### Adding Packages
 
