@@ -47,24 +47,16 @@ Now you are free to work on your code! When you are satisfied with your changes,
 - `-m` flag sets up the commit message.
 - `message` is the commit message: a brief (50 character max) message describing what the commit changes.
 
-## Package Management
-
-We are in the process of migrating our Node.js projects from `npm` to `pnpm`. There are a few things to consider:
-
-- If you see a `package-lock.json` file, the project has _not_ been migrated yet and you should use `npm` for the project's commands.
-- If you see a `pnpm-lock.yaml` file, the project _has_ been migrated, and you should use `pnpm` for the project's commands.
-
 > [!TIP]
 > If you aren't sure which package manager to use, you can reach out to us in our [chat server](https://chat.nhcarrigan.com).
 
 ### Installing Packages
 
-- If the project uses `npm`, you should run `npm ci` to install the packages. The `ci` command will read the `package-lock.json` file and install the exact versions of the packages listed there.
 - If the project uses `pnpm`, you should run `pnpm install`.
 
 ### Adding Packages
 
-`npm install` and `pnpm install` will both allow you to add a new package. Use the correct command for the project.
+`pnpm install` will allow you to add a new package.
 
 When adding a new package, you should use the `--save-exact` flag to pin the package version. The CI will check for unpinned versions when you open a PR.
 
