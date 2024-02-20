@@ -46,10 +46,7 @@
 
 ---
 
-- [Staff Guidelines](/staff/start)
-- [Moderator Handbook](/staff/moderator)
-- [Developer Flight Manual](/staff/developer)
-- [Support Standards](/staff/support)
+- [Staff Handbook](/staff/handbook)
 - [Join the Team](/staff/apply)
 
 ---
