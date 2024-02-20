@@ -1,14 +1,8 @@
 # Join Our Staff Team
 
-Our staff team consists of moderators, developers, support specialists, artists, and editors.
-
 > [!NOTE]
 > All positions are a volunteer-only basis, unless a separate written arrangement has been made with you. Do not assume that becoming staff will get you paid.
 
-## Application Process
+We source team members by hand, based on activity, length of time in the community, and quality of interactions. If you are selected, Naomi will reach out to you with further instructions.
 
-We use Airtable to track staff applications. Application links are available in our [Discord server](https://chat.nhcarrigan.com).
-
-You should hear back from us within 3 to 5 days. If you you do not hear from us, ping Naomi in the chat server and we will take a look.
-
-Please be as thorough and detailed in your application as possible. Low-effort submissions will not be considered.
+Members of the mentorship programme are treated like staff.
