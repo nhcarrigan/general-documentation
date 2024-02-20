@@ -16,4 +16,4 @@ Before reaching out to us, be prepared with some information.
 
 If you are not prepared for your appeal, we will be less likely to approve it.
 
-[Appeal A Ban](https://airtable.com/appQV9w8PWGQE5Kl9/shrrHayu5F5T1Vg0D)
+[Appeal A Ban](https://airtable.com/appV1cYj57zUU1Af2/pagEeCCMdz5T6cHi9/form)
